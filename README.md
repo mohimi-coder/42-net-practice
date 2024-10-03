@@ -3,7 +3,8 @@
 NetPractice 42
 
 
-![preview](https://github.com/user-attachments/assets/72f695d7-cbe0-4d62-942c-cce7f02b4ab4)
+<img width="1199" alt="Screen Shot 2024-10-02 at 6 19 24 PM" src="https://github.com/user-attachments/assets/e35d00c1-9cb8-4b64-ab47-376264c1c710">
+
 
 
 1 – Use  flsm (Fixed length subnet mask) 

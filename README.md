@@ -91,6 +91,9 @@ This layer is the combination of data-link and physical layer, where it is respo
 
 # OSI Model vs. TCP IP Model
 
+<img width="529" alt="Screen Shot 2024-10-03 at 8 48 52 PM" src="https://github.com/user-attachments/assets/31513759-3592-4eae-8cf9-bbf0e62ee9d0">
+
+
 <img width="1260" alt="Screen Shot 2024-10-03 at 8 28 27 PM" src="https://github.com/user-attachments/assets/8e20e78f-239f-4870-b82f-9f4020dcd10a">
 
 # Functions of TCP/IP Layers

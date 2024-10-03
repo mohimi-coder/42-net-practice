@@ -2,6 +2,10 @@
 
 NetPractice 42
 
+
+![preview](https://github.com/user-attachments/assets/72f695d7-cbe0-4d62-942c-cce7f02b4ab4)
+
+
 1 – Use  flsm (Fixed length subnet mask) 
 How flsm works ?
 

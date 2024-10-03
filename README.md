@@ -109,4 +109,13 @@ The Switch is a network device that is used to segment the networks into differe
 ![switch-vs-router-chart](https://github.com/user-attachments/assets/371adfe6-679a-40a0-b4d9-e02a1fddf0fe)
 
 
+# What is the usage of this ip address 127.0.0.0 ?
+
+https://www.pubconcierge.com/blog/subnetting-101-free-ipv4-cheat-sheet/
+
+https://www.solarwinds.com/resources/it-glossary/network-protocols
+
+
+
+
 

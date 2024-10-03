@@ -50,13 +50,18 @@ https://www.simplilearn.com/tutorials/cyber-security-tutorial/what-is-tcp-ip-mod
 
 🟢Application Layer
 
+<img width="683" alt="Screen Shot 2024-10-03 at 8 47 21 PM" src="https://github.com/user-attachments/assets/383d40cd-b413-472f-96bf-252d4e2e552d">
+
 This is the topmost layer which indicates the applications and programs that utilize the TCP/IP model for communicating with the user through applications and various tasks performed by the layer, including data representation for the applications executed by the user and forwards it to the transport layer.
 Some of the protocols used in this layer are:
-	•	HTTP: Hypertext transfer protocol is used for accessing the information available on the internet.
-	•	SMTP: Simple mail transfer protocol, assigned the task of handling e-mail-related steps and issues.
-	•	FTP: This is the standard protocol that oversees the transfer of files over the network channel.
+	✅HTTP: Hypertext transfer protocol is used for accessing the information available on the internet.
+	✅SMTP: Simple mail transfer protocol, assigned the task of handling e-mail-related steps and issues.
+	✅FTP: This is the standard protocol that oversees the transfer of files over the network channel.
  
 🟢Transport Layer
+
+<img width="683" alt="Screen Shot 2024-10-03 at 8 47 45 PM" src="https://github.com/user-attachments/assets/d23bda85-1673-451e-b34d-01f9868a5aff">
+
 
 This layer is responsible for establishing the connection between the sender and the receiver device and also performs the task of dividing the data from the application layer into packets, which are then used to create sequences.
 The protocols used in this layer are:
@@ -64,6 +69,9 @@ The protocols used in this layer are:
 	•	UDP: User Datagram Protocol is responsible for identifying errors, and other tasks during the transmission of information.
  
 🟢Internet Layer
+
+<img width="683" alt="Screen Shot 2024-10-03 at 8 48 04 PM" src="https://github.com/user-attachments/assets/ef92e9a0-3b01-4284-8002-fa2e8ab41b70">
+
 
 The Internet layer performs the task of controlling the transmission of the data over the network modes and enacts protocols related to the various steps related to the transmission of data over the channel, which is in the form of packets sent by the previous layer.
 This layer performs many important functions in the TCP/IP model, some of which are:
@@ -75,6 +83,9 @@ Some of the protocols applied in this layer are:
 	•	ARP: This protocol refers to the Address Resolution Protocol that is responsible for finding the physical address using the IP address.
  
 🟢Network Access Layer
+
+<img width="683" alt="Screen Shot 2024-10-03 at 8 48 21 PM" src="https://github.com/user-attachments/assets/d9b684fa-f1d9-4840-bdf5-0139c6626ee9">
+
 
 This layer is the combination of data-link and physical layer, where it is responsible for maintaining the task of sending and receiving data in raw bits, i.e., in binary format over the physical communication modes in the network channel.
 

@@ -1,7 +1,9 @@
-# 42-net-practice
-
-NetPractice 42
-
+<h1 align="center">net-practice- 42 _ 1337 </h1>
+<p align="center">
+  <a href="https://github.com//mohimi-coder/42-net-practice">
+    <img src="https://raw.githubusercontent.com/mohimi-coder/1337_badges/refs/heads/master/netpracticee.png" alt="42 Badge">
+  </a>
+</p>
 
 <img width="1199" alt="Screen Shot 2024-10-02 at 6 19 24 PM" src="https://github.com/user-attachments/assets/e35d00c1-9cb8-4b64-ab47-376264c1c710">
 

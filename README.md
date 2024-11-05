@@ -1,7 +1,7 @@
 <h1 align="center">net-practice_42_1337 </h1>
 <p align="center">
   <a href="https://github.com//mohimi-coder/42-net-practice">
-    <img src="https://raw.githubusercontent.com/mohimi-coder/1337_badges/refs/heads/master/netpracticee.png" alt="42 Badge">
+    <img src="https://raw.githubusercontent.com/mohimi-coder/1337_badges/refs/heads/master/netpracticem.png" alt="42 Badge">
   </a>
 </p>
 

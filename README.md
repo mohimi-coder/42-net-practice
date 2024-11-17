@@ -61,8 +61,11 @@ https://www.simplilearn.com/tutorials/cyber-security-tutorial/what-is-tcp-ip-mod
 
 This is the topmost layer which indicates the applications and programs that utilize the TCP/IP model for communicating with the user through applications and various tasks performed by the layer, including data representation for the applications executed by the user and forwards it to the transport layer.
 Some of the protocols used in this layer are:
+
 	✅HTTP: Hypertext transfer protocol is used for accessing the information available on the internet.
+ 
 	✅SMTP: Simple mail transfer protocol, assigned the task of handling e-mail-related steps and issues.
+ 
 	✅FTP: This is the standard protocol that oversees the transfer of files over the network channel.
  
 🟢Transport Layer
